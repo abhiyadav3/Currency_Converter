@@ -27,15 +27,3 @@ currency-converter/
 │   └── codes.js        # JavaScript file containing country codes and currency codes
 
 ```
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
-
-## Contact
-
-For any inquiries or feedback, please contact [ayabhishek777@gmail.com](mailto:ayabhishek777@gmail.com).
-
----
-
-Thank you for using the Currency Converter! We hope it makes your currency conversion tasks easier and more efficient.
